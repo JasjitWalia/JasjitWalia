@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasjit Singh Ahluwalia</h1>
 <h3 align="center">Passionate about AI, AR, and VR, exploring the intersections of technology and human experience. 🚀🇮🇳</h3>
-<img align="right" width="400" alt="coding" src="https://labs.openai.com/s/M6Tp8LrtCLC5oTSc7aZsQn0a"
+<img align="right" width="400" alt="coding" src="https://th.bing.com/th/id/OIP.dNEmhykvZnf97jXC0ICcbwHaFJ?w=242&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
 
 - 🌱 I’m currently learning **Tensorflow, AR Core, Django**
 
